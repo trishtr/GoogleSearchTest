@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="GoogleSearchTest">
+<listeners>
+<listener class-name="com.google.testUtilis.Reporting"/>
+</listeners>
+  <test name="GoogleSearchTest">
+    <classes>
+      <class name="com.google.testCases.BaseClass"/>
+      <class name="com.google.testCases.TC_Search_AutoSuggestions_001"/>
+      <class name="com.google.testCases.TC_Search_AutoSuggestion_PartialKw_002"/>
+      <class name="com.google.testCases.TC_Search_Videos_007"/>
+      <class name="com.google.testCases.TC_Search_NonExKw_004"/>
+      <class name="com.google.testCases.TC_Search_MathKw_005"/>
+      <class name="com.google.testCases.TC_Search_MisspelledKw_003"/>
+      <class name="com.google.testCases.TC_Search_Images_006"/>
+      <class name="com.google.testCases.TC_Search_Maps_009"/>
+      <class name="com.google.testCases.TC_Search_Calculator_008"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

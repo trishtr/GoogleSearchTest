@@ -1,0 +1,63 @@
+2021-07-22 08:16:22,462 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:20:25,769 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:22:01,666 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:25:31,047 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:26:19,161 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:27:11,130 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:28:18,864 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:35:31,645 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:38:08,556 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:38:53,902 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:39:16,743 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:44:58,477 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:47:15,376 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 08:48:46,509 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:01:06,438 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:01:45,950 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:03:08,109 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:10:30,485 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:11:55,963 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:15:17,043 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:15:47,545 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:18:16,697 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:18:46,035 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 10:18:51,270 [main] INFO GoogleSearch_Gmail_Test - Test is passed, The most 10 auto suggestions are displayed
+2021-07-22 13:47:26,875 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 13:47:26,901 [main] INFO GoogleSearch_Gmail_Test - Search for multiple keywords
+2021-07-22 13:50:38,014 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 13:50:38,039 [main] INFO GoogleSearch_Gmail_Test - Search for multiple keywords
+2021-07-22 13:52:26,988 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 13:52:32,382 [main] INFO GoogleSearch_Gmail_Test - Test is passed, The most 10 auto suggestions for single keywords are displayed
+2021-07-22 13:55:38,670 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 13:55:43,930 [main] INFO GoogleSearch_Gmail_Test - Test is passed, The most 10 auto suggestions for single keywords are displayed
+2021-07-22 13:57:29,288 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 13:57:34,532 [main] INFO GoogleSearch_Gmail_Test - Test is passed, The most 10 auto suggestions for single keywords are displayed
+2021-07-22 13:57:34,542 [main] INFO GoogleSearch_Gmail_Test - Search for single keyword
+2021-07-22 14:16:04,560 [main] INFO GoogleSearch_Gmail_Test - Search for keyword
+2021-07-22 14:16:10,465 [main] INFO GoogleSearch_Gmail_Test - Test is passed, The most 10 auto suggestions for keywords are displayed
+2021-07-22 15:47:52,833 [main] INFO GoogleSearch_Gmail_Test - Search for keyword
+2021-07-22 17:06:46,766 [main] INFO GoogleSearch_Gmail_Test - Search for keyword
+2021-07-22 17:06:52,413 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,466 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,513 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,558 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,608 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,653 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,704 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,750 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,801 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:06:52,845 [main] INFO GoogleSearch_Gmail_Test - AutoComplete works for partial keywords
+2021-07-22 17:08:41,308 [main] INFO GoogleSearch_Gmail_Test - Search for keyword
+2021-07-22 17:08:46,520 [main] INFO GoogleSearch_Gmail_Test - Check AutoComplete
+2021-07-22 17:09:35,461 [main] INFO GoogleSearch_Gmail_Test - Search for keyword
+2021-07-22 17:09:40,675 [main] INFO GoogleSearch_Gmail_Test - Check AutoComplete
+2021-07-24 15:26:45,339 [main] INFO GoogleSearch_Gmail_Test - Test is passed, mispelled word is corrected
+2021-07-25 07:26:56,827 [main] INFO GoogleSearch_Gmail_Test - Test is passed, no results for non existing keywords
+2021-07-25 07:28:47,385 [main] INFO GoogleSearch_Gmail_Test - Test is passed, misspelled word is corrected
+2021-07-25 07:41:25,819 [main] INFO GoogleSearch_Gmail_Test - Test is passed, misspelled word is corrected
+2021-07-25 07:55:10,352 [main] INFO GoogleSearch_Gmail_Test - Calculator works for math keywords
+2021-07-25 10:24:10,756 [main] INFO GoogleSearch_Gmail_Test - Video results contains keywords
+2021-07-26 07:43:20,018 [main] INFO GoogleSearch_Gmail_Test - Video results contains keywords
+2021-07-26 07:50:46,906 [main] INFO GoogleSearch_Gmail_Test - Image results displays
+2021-07-26 07:55:55,156 [main] INFO GoogleSearch_Gmail_Test - Calculator function works for mathematic keywords
+2021-07-26 08:40:27,144 [main] INFO GoogleSearch_Gmail_Test - Maps function displays
